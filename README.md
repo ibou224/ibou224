@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Ibou Traore | Salut, moi c’est Ibou Traore
+# 👋 Hi, I'm Ibrahima Sory Traore | Salut, moi c’est Ibrahima Sory Traore
 
 🎓 **Étudiant en informatique (IA)** | 🤖 **AI & Data Enthusiast**  
-💼 **BI Developer & Database Administrator**  
+💼 **BI Developer & Database Administrator** 
+🚀 **Open to AI / Data Internships & Junior Roles**
 📍 Canada
 
 ---
@@ -37,6 +38,17 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ---
 
+## 🎯 What I Can Do for You | Ce que je peux apporter
+
+- 🤖 Build and evaluate **machine learning models**
+- 📊 Analyze, clean, and interpret **complex datasets**
+- 🧠 Design **predictive systems** for business use cases
+- 🌐 Develop **full-stack web applications**
+- 🗄️ Optimize **databases and BI pipelines**
+- 🔌 Create and deploy **REST APIs**
+
+---
+
 ## 🧪 Research Interests | Axes de recherche IA
 
 - 🤖 Machine Learning & Deep Learning  
@@ -59,64 +71,89 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ### 🤖 AI & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### 🌐 Web
+### 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+### 🌐 Web & APIs
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### 🗄️ Databases & BI
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🗄️ Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 </div>
 
 ---
 
-## 📌 Featured Projects | Projets clés
+### 📊 Customer Satisfaction Prediction (Machine Learning)
+**Business Impact:** Anticipation de l’insatisfaction client pour améliorer la rétention  
+- Prétraitement & feature engineering sur données e-commerce  
+- Modèles de classification ML  
+- Évaluation (accuracy, recall, F1-score)  
+- API REST prête pour **déploiement cloud**
+
+---
+
+### 💼 Job Board Platform (Full-Stack Web Application)
+**Business Impact:** Plateforme scalable de mise en relation recruteurs–candidats  
+- Frontend React orienté UX  
+- Backend Node.js & Express  
+- Gestion des offres, candidatures et filtres  
+- Architecture prête pour intégration IA (matching futur)
+
+---
 
 ### 🔍 AI Fraud Detection System
-> Machine Learning model + REST API + Web Interface  
-✔ Data preprocessing  
-✔ Model training & evaluation  
-✔ Deployment-ready architecture  
+**Business Impact:** Réduction des risques et automatisation des contrôles  
+- Pipeline ML de bout en bout  
+- API REST exposant le modèle  
+- Containerisation avec Docker  
+- Architecture **cloud-ready (AWS / GCP)**
 
 ---
 
 ### ⚽ Football Match Prediction
-> Sports data analysis & predictive modeling  
-✔ Feature engineering  
-✔ Classification & regression models  
+**Business Impact:** Aide à la décision basée sur les données sportives  
+- Analyse statistique  
+- Modèles prédictifs  
+- Résultats interprétables
 
 ---
 
 ### 🚗 Intelligent Used-Car Management Platform
-> Full-stack web app with AI-oriented design  
-✔ React + Node.js + MongoDB  
-✔ Filtering, prediction-ready architecture  
+**Business Impact:** Gestion intelligente d’inventaire  
+- Application full-stack (React, Node.js, MongoDB)  
+- Fonctions de tri et filtrage  
+- Structure orientée données & IA
 
 ---
-
-### 🎮 AI & Algorithms
-- 🧠 Neural Network for **Tic-Tac-Toe**
-- ♟️ **Cram Game** implemented in Java (OOP)
-
----
-
-## 📈 Current Goals | Objectifs actuels
-
-- 🎓 Excel in **AI academic projects**
-- 🔬 Deepen **applied AI research**
-- 🧠 Build intelligent systems for businesses
-- 🚀 Prepare for AI-focused professional roles
-
----
-
+    
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -130,8 +167,9 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ## 📫 Contact
 
-- 🌐 GitHub: https://github.com/IbouTraore
-- 💼 LinkedIn: *(à ajouter)*
+- 🌐 GitHub: https://github.com/IbouTraore  
+- 💼 LinkedIn: *(à ajouter)*  
+- 📩 Open to **AI / Data internships, junior roles & applied research projects**
 
 ---
 
