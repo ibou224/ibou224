@@ -111,6 +111,8 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ---
 
+## 📌 Featured Projects | Projets clés
+
 ### 📊 Customer Satisfaction Prediction (Machine Learning)
 **Business Impact:** Anticipation de l’insatisfaction client pour améliorer la rétention  
 - Prétraitement & feature engineering sur données e-commerce  
