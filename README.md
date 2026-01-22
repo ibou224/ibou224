@@ -170,7 +170,7 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 ## 📫 Contact
 
 - 🌐 GitHub: https://github.com/IbouTraore  
-- 💼 LinkedIn: *(à ajouter)*  
+- 💼 LinkedIn: (https://www.linkedin.com/in/ibrahima-sory-traor%C3%A9-9449a6124/)  
 - 📩 Open to **AI / Data internships, junior roles & applied research projects**
 
 ---
