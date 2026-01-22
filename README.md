@@ -113,6 +113,14 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ## 📌 Featured Projects | Projets clés
 
+### 👥 Employee Attrition Prediction (Machine Learning)
+**Business Impact:** Anticipation du départ des employés afin d’améliorer la rétention et la stratégie RH  
+- Analyse de données RH (nettoyage & feature engineering)
+- Modèles de classification (attrition vs non-attrition)
+- Évaluation des performances (accuracy, precision, recall, F1-score)
+- Interprétation des facteurs clés d’attrition
+- API REST prête pour intégration dans des outils RH
+
 ### 📊 Customer Satisfaction Prediction (Machine Learning)
 **Business Impact:** Anticipation de l’insatisfaction client pour améliorer la rétention  
 - Prétraitement & feature engineering sur données e-commerce  
@@ -145,14 +153,6 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 - Analyse statistique  
 - Modèles prédictifs  
 - Résultats interprétables
-
----
-
-### 🚗 Intelligent Used-Car Management Platform
-**Business Impact:** Gestion intelligente d’inventaire  
-- Application full-stack (React, Node.js, MongoDB)  
-- Fonctions de tri et filtrage  
-- Structure orientée données & IA
 
 ---
     
