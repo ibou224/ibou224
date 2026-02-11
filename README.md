@@ -113,7 +113,7 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ## 📌 Featured Projects | Projets clés
 
-### 👥 [Employee Attrition Prediction (Machine Learning)](https://github.com/ibou224/customer-satisfaction-prediction)
+### 👥 [Employee Attrition Prediction (Machine Learning)](https://github.com/ibou224/Employee-Attrition-Prediction.git)
 **Business Impact:** Anticipation du départ des employés afin d’améliorer la rétention et la stratégie RH  
 - Analyse de données RH (nettoyage & feature engineering)
 - Modèles de classification (attrition vs non-attrition)
