@@ -1,11 +1,18 @@
-<div align="center">
 <p align="center">
   <img src="coverGit.png" alt="ML Engineer Banner" width="100%" />
 </p>
-# 👋 Hi, I'm Ibrahima Sory Traore
-###  ML Engineer Junior | AI Enthusiast | BI Developer
-**Open to AI / Data Internships & Junior Roles**
-**📍 Gatineau, Canada
+
+<h1 align="center">👋 Hi, I'm Ibrahima Sory Traore</h1>
+
+<h3 align="center">
+ML Engineer Junior | AI Enthusiast | BI Developer
+</h3>
+
+<p align="center">
+<strong>🚀 Open to AI / Data Internships & Junior Roles</strong><br>
+📍 Gatineau, Canada
+</p>
+
 
 ---
 
