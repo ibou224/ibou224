@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Ibrahima Sory Traore | Salut, moi c’est Ibrahima Sory Traore
 
-🎓 **Étudiant en informatique (IA)** | 🤖 **AI & Data Enthusiast**  
-💼 **BI Developer & Database Administrator** 
-🚀 **Open to AI / Data Internships & Junior Roles**
+**Étudiant en informatique (IA)** | **AI & Data Enthusiast**  
+**BI Developer & Database Administrator** 
+**Open to AI / Data Internships & Junior Roles**
 📍 Canada
 
 ---
 
-### 🚀 Building intelligent, data-driven solutions for real-world problems
+### Building intelligent, data-driven solutions for real-world problems
 
 </div>
 
@@ -40,23 +40,23 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ## 🎯 What I Can Do for You | Ce que je peux apporter
 
-- 🤖 Build and evaluate **machine learning models**
-- 📊 Analyze, clean, and interpret **complex datasets**
-- 🧠 Design **predictive systems** for business use cases
-- 🌐 Develop **full-stack web applications**
-- 🗄️ Optimize **databases and BI pipelines**
-- 🔌 Create and deploy **REST APIs**
+- Build and evaluate **machine learning models**
+-  Analyze, clean, and interpret **complex datasets**
+-  Design **predictive systems** for business use cases
+-  Develop **full-stack web applications**
+-  Optimize **databases and BI pipelines**
+-  Create and deploy **REST APIs**
 
 ---
 
 ## 🧪 Research Interests | Axes de recherche IA
 
-- 🤖 Machine Learning & Deep Learning  
-- 📊 Data Analysis & Predictive Modeling  
-- 🧠 Neural Networks  
-- 🔍 Fraud Detection & Risk Analysis  
-- ⚽ Sports Analytics & Prediction  
-- 🚗 Intelligent Information Systems  
+-  Machine Learning & Deep Learning  
+-  Data Analysis & Predictive Modeling  
+-  Neural Networks  
+-  Fraud Detection & Risk Analysis  
+-  Sports Analytics & Prediction  
+-  Intelligent Information Systems  
 
 ---
 
