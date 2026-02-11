@@ -121,7 +121,7 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 - Interprétation des facteurs clés d’attrition
 - API REST prête pour intégration dans des outils RH
 
-### 📊 Customer Satisfaction Prediction (Machine Learning)
+### 📊 [Customer Satisfaction Prediction (Machine Learning)](https://github.com/ibou224/Satisfaction-Client-ProjetIA2025.git)
 **Business Impact:** Anticipation de l’insatisfaction client pour améliorer la rétention  
 - Prétraitement & feature engineering sur données e-commerce  
 - Modèles de classification ML  
@@ -130,7 +130,7 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ---
 
-### 💼 Job Board Platform (Full-Stack Web Application)
+### 💼 [Job Board Platform (Full-Stack Web Application)](https://github.com/ibou224/Frontend-Job-Board-Mini-ATS.git)
 **Business Impact:** Plateforme scalable de mise en relation recruteurs–candidats  
 - Frontend React orienté UX  
 - Backend Node.js & Express  
@@ -139,7 +139,7 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ---
 
-### 🔍 AI Fraud Detection System
+### 🔍 [AI Fraud Detection System](https://github.com/ibou224/Projet-infonuagique.git)
 **Business Impact:** Réduction des risques et automatisation des contrôles  
 - Pipeline ML de bout en bout  
 - API REST exposant le modèle  
@@ -148,7 +148,7 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ---
 
-### ⚽ Football Match Prediction
+### ⚽ [Football Match Prediction]
 **Business Impact:** Aide à la décision basée sur les données sportives  
 - Analyse statistique  
 - Modèles prédictifs  
