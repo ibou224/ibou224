@@ -5,7 +5,7 @@
 **Étudiant en informatique (IA)** | **AI & Data Enthusiast**  
 **BI Developer & Database Administrator** 
 **Open to AI / Data Internships & Junior Roles**
-📍 Canada
+📍 Gatineau, Canada
 
 ---
 
