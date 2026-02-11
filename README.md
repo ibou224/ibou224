@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Ibrahima Sory Traore
 
 **ML Engineer Junior | AI Enthusiast | BI Developer**
-_Open to AI / Data Internships & Junior Roles_
+**Open to AI / Data Internships & Junior Roles**
 📍 Gatineau, Canada
 
 ---
