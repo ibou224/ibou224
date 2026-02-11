@@ -163,8 +163,8 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 <div align="center">
 
-![Ibou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibou224&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibou224&layout=compact&theme=tokyonight)
+![Ibou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibou224&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibou224&layout=compact&theme=radical)
 
 </div>
 
