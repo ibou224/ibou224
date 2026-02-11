@@ -3,6 +3,7 @@
 </p>
 
 <div align="center">
+  
 # 👋 Hi, I'm Ibrahima Sory Traore
 
 **ML Engineer Junior | AI Enthusiast | BI Developer**
