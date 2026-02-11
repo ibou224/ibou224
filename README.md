@@ -148,7 +148,7 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ---
 
-### ⚽ [Football Match Prediction]
+### ⚽ [Football Match Prediction](https://github.com/ibou224/Football-Prediction-IA.git)
 **Business Impact:** Aide à la décision basée sur les données sportives  
 - Analyse statistique  
 - Modèles prédictifs  
