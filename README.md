@@ -116,6 +116,14 @@ I focus on projects that combine **AI, data, and software engineering**, with a 
 
 ## 📌 Featured Projects | Projets clés
 
+### 🏨 [AI-Hotel-Assistant (LLM Fine-Tuning + RAG)](https://github.com/ibou224/AI-Hotel-Assistant)
+**Business Impact:** Automatisation des réponses clients et amélioration de la qualité de service grâce à un assistant IA fiable, cohérent et aligné sur l’identité de l’hôtel  
+- Analyse thématique des avis clients (ex: propreté, service, localisation, confort)
+- Fine-tuning LoRA d’un LLM (Meta-Llama-3.1-8B-Instruct 4-bit via Unsloth) pour adapter le ton et le style
+- Implémentation d’une architecture RAG (chunking, embeddings, ChromaDB) pour générer des réponses basées sur la FAQ et les documents de l’hôtel
+- Prompt engineering (zero-shot, few-shot) et tests sur plusieurs scénarios de conversations
+- Évaluation comparative Base Model vs Fine-Tuned Model vs RAG (exactitude factuelle, hallucinations, cohérence des réponses)
+
 ### 👥 [Employee Attrition Prediction (Machine Learning)](https://github.com/ibou224/Employee-Attrition-Prediction.git)
 **Business Impact:** Anticipation du départ des employés afin d’améliorer la rétention et la stratégie RH  
 - Analyse de données RH (nettoyage & feature engineering)
