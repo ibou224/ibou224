@@ -209,7 +209,7 @@ I'm fully bilingual (French / English) and based in the Ottawa–Gatineau region
 
 ---
 
-### GitHub stats
+<!-- ### GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibou224&show_icons=true&count_private=true&hide_border=true&title_color=2188FF&icon_color=2188FF&text_color=8b949e&bg_color=00000000" alt="GitHub Stats" />
@@ -222,4 +222,4 @@ I'm fully bilingual (French / English) and based in the Ottawa–Gatineau region
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibou224&bg_color=00000000&color=8b949e&line=2188FF&point=FF6B35&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
