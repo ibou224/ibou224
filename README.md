@@ -139,23 +139,6 @@ I'm fully bilingual (French / English) and based in the Ottawa–Gatineau region
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibou224&show_icons=true&count_private=true&hide_border=true&title_color=2188FF&icon_color=2188FF&text_color=8b949e&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibou224&layout=compact&langs_count=8&hide_border=true&title_color=2188FF&text_color=8b949e&bg_color=00000000" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibou224&hide_border=true&background=00000000&stroke=2188FF&ring=2188FF&fire=FF6B35&currStreakLabel=2188FF&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibou224&bg_color=00000000&color=8b949e&line=2188FF&point=FF6B35&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ### Stack
 
 **Languages**
@@ -222,4 +205,21 @@ I'm fully bilingual (French / English) and based in the Ottawa–Gatineau region
   <a href="https://www.linkedin.com/in/ibrahima-sory-traor%C3%A9-9449a6124/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:iboutraore15@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://ibou-portfolio.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibou224&show_icons=true&count_private=true&hide_border=true&title_color=2188FF&icon_color=2188FF&text_color=8b949e&bg_color=00000000" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibou224&layout=compact&langs_count=8&hide_border=true&title_color=2188FF&text_color=8b949e&bg_color=00000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibou224&hide_border=true&background=00000000&stroke=2188FF&ring=2188FF&fire=FF6B35&currStreakLabel=2188FF&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibou224&bg_color=00000000&color=8b949e&line=2188FF&point=FF6B35&area=true&hide_border=true" alt="Activity Graph" />
 </p>
